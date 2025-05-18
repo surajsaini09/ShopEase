@@ -12,7 +12,7 @@ A simple front-end e-commerce store built with HTML, CSS, and JavaScript.
 2. Open `index.html` in your browser
 
 ## Demo
-[Add link here if you host it]
+[file:///Users/suraj/Desktop/Others/PERSONAL%20PROJECTS/card.html]
 
 ---
 
